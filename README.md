@@ -1,6 +1,6 @@
 # COEUS — Prediction Market Intelligence
 
-A sharp, minimal prediction market analysis tool powered by Claude AI and Polymarket data.
+A sharp, minimal prediction market analysis tool and Polymarket data.
 
 ---
 
